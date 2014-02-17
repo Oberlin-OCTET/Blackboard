@@ -74,6 +74,5 @@ for (int usr=0;usr<activeUsers.size();usr++){
 
 </div>
     
-  </div>
  </body>
 </html>
